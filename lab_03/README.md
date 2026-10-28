@@ -10,7 +10,7 @@ Service worker działa poprawnie tylko w wersji produkcyjnej, dlatego aplikację
 npm install
 npm run build
 npm run preview
-
+```
 Po wykonaniu poleceń aplikacja będzie dostępna pod adresem http://localhost:4173/.
 
 
