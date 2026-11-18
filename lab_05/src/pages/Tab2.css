@@ -1,0 +1,10 @@
+.numerporzadkowy {
+  color: #888;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.liczbapierwsza {
+  color: #ff38b3;
+  font-size: 1.1em;
+}
