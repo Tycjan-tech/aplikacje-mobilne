@@ -21,7 +21,7 @@ Aby uruchomić aplikację lokalnie, otwórz terminal w folderze projektu i wykon
 ### 1. Lista obrazków
 ![Lista obrazków](public/img/obrazki.png)
 
-### 2. Lista liczb pierwszych z komunikatem toast
+### 2. Lista liczb pierwszych
 ![Liczby pierwsze](public/img/generatorliczb.png)
 
 ### 3. Pokaz slajdów
