@@ -11,7 +11,13 @@ Aplikacja z zakładkami zbudowana w Ionic React, wykorzystująca:
 1. Przejdź do folderu projektu:
    ```bash
    cd lab_06
-
+2. Zainstaluj zależności:
+   ```bash 
+   npm install 
+2. Uruchom serwer:
+   ```bash 
+   ionic serve
+   
 ## Zrzuty ekranu:
 ### Lista osób
 ![Lista osób](public/screenshots/listaosob.png)
